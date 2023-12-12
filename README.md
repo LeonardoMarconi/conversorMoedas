@@ -1,4 +1,9 @@
 # Conversor de moedas 💰
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/conversorMoedas?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/conversorMoedas?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LeonardoMarconi/conversorMoedas?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoMarconi/conversorMoedas?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeonardoMarconi/conversorMoedas?style=for-the-badge)
 
 App Converdor de Moedas
 
